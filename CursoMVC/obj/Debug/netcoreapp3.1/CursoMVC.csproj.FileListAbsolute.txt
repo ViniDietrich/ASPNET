@@ -157,3 +157,8 @@ C:\Users\Vinicius\Desktop\Projetos\ProjetoASPNET\CursoMVC\CursoMVC\bin\Debug\net
 C:\Users\Vinicius\Desktop\Projetos\ProjetoASPNET\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\Vinicius\Desktop\Projetos\ProjetoASPNET\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\Vinicius\Desktop\Projetos\ProjetoASPNET\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vinicius\Desktop\Projetos\ProjetoASPNET\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Create.cshtml.g.cs
+C:\Users\Vinicius\Desktop\Projetos\ProjetoASPNET\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Delete.cshtml.g.cs
+C:\Users\Vinicius\Desktop\Projetos\ProjetoASPNET\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Details.cshtml.g.cs
+C:\Users\Vinicius\Desktop\Projetos\ProjetoASPNET\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Edit.cshtml.g.cs
+C:\Users\Vinicius\Desktop\Projetos\ProjetoASPNET\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Index.cshtml.g.cs
